@@ -91,8 +91,8 @@ tf.app.flags.DEFINE_float('l1', 1e-2, 'l1 regularization used in rewiring (irrel
 tf.app.flags.DEFINE_float('dampening_factor', 0.3, 'Parameter necessary to approximate the spike derivative')
 
 #TODO: my values
-FLAGS.n_batch_train = 128#64
-FLAGS.n_batch_validation = 128
+#FLAGS.n_batch_train = 128#64
+#FLAGS.n_batch_validation = 128
 
 FLAGS.rewiring_connectivity = -1
 FLAGS.neuron_sign = False
