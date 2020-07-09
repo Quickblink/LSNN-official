@@ -1,0 +1,192 @@
+
+Iteration 0, epoch 0 validation accuracy 0.0977
+
+            firing rate (Hz)  min 0 (3) 	 max 103 (1) 	 average 16 +- std 22 (over neurons)
+            connectivity (total 0.112)	 W_in 0.112 	 W_rec 0.11 		 w_out 0.11
+            number of non zero weights 	 W_in 1976/17600 	 W_rec 5400/48400 	 w_out 248/2200
+
+            classification loss 2.3 	 regularization loss 0.011
+            learning rate 0.01 	 training op. time 0s
+
+Iteration 400, epoch 0 validation accuracy 0.586
+
+            firing rate (Hz)  min 0 (17) 	 max 122 (1) 	 average 19 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.115 	 W_rec 0.12 		 w_out 0.18
+            number of non zero weights 	 W_in 2017/17600 	 W_rec 5752/48400 	 w_out 395/2200
+
+            classification loss 1.1 	 regularization loss 0.012
+            learning rate 0.01 	 training op. time 2.7s
+
+Iteration 800, epoch 0 validation accuracy 0.652
+
+            firing rate (Hz)  min 0 (23) 	 max 112 (1) 	 average 22 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.114 	 W_rec 0.12 		 w_out 0.21
+            number of non zero weights 	 W_in 2010/17600 	 W_rec 5709/48400 	 w_out 454/2200
+
+            classification loss 0.95 	 regularization loss 0.014
+            learning rate 0.01 	 training op. time 2.5s
+
+Iteration 1200, epoch 1 validation accuracy 0.73
+
+            firing rate (Hz)  min 0 (23) 	 max 120 (1) 	 average 20 +- std 23 (over neurons)
+            connectivity (total 0.12)	 W_in 0.118 	 W_rec 0.12 		 w_out 0.22
+            number of non zero weights 	 W_in 2078/17600 	 W_rec 5623/48400 	 w_out 477/2200
+
+            classification loss 0.84 	 regularization loss 0.014
+            learning rate 0.01 	 training op. time 2.1s
+
+Iteration 1600, epoch 1 validation accuracy 0.691
+
+            firing rate (Hz)  min 0 (21) 	 max 126 (1) 	 average 22 +- std 23 (over neurons)
+            connectivity (total 0.12)	 W_in 0.119 	 W_rec 0.12 		 w_out 0.22
+            number of non zero weights 	 W_in 2091/17600 	 W_rec 5602/48400 	 w_out 486/2200
+
+            classification loss 0.83 	 regularization loss 0.015
+            learning rate 0.01 	 training op. time 2s
+
+Iteration 2000, epoch 2 validation accuracy 0.746
+
+            firing rate (Hz)  min 0 (20) 	 max 128 (1) 	 average 19 +- std 22 (over neurons)
+            connectivity (total 0.12)	 W_in 0.119 	 W_rec 0.12 		 w_out 0.23
+            number of non zero weights 	 W_in 2092/17600 	 W_rec 5587/48400 	 w_out 501/2200
+
+            classification loss 0.76 	 regularization loss 0.012
+            learning rate 0.01 	 training op. time 2.1s
+
+Iteration 2400, epoch 2 validation accuracy 0.711
+
+            firing rate (Hz)  min 0 (22) 	 max 125 (1) 	 average 22 +- std 22 (over neurons)
+            connectivity (total 0.12)	 W_in 0.121 	 W_rec 0.11 		 w_out 0.22
+            number of non zero weights 	 W_in 2134/17600 	 W_rec 5555/48400 	 w_out 491/2200
+
+            classification loss 0.73 	 regularization loss 0.014
+            learning rate 0.01 	 training op. time 2s
+
+Decaying learning rate: 0.01 -> 0.008
+Iteration 2800, epoch 3 validation accuracy 0.73
+
+            firing rate (Hz)  min 0 (24) 	 max 124 (1) 	 average 21 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.12 	 W_rec 0.11 		 w_out 0.23
+            number of non zero weights 	 W_in 2117/17600 	 W_rec 5550/48400 	 w_out 515/2200
+
+            classification loss 0.73 	 regularization loss 0.013
+            learning rate 0.008 	 training op. time 2.1s
+
+Iteration 3200, epoch 3 validation accuracy 0.785
+
+            firing rate (Hz)  min 0 (28) 	 max 121 (1) 	 average 20 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.123 	 W_rec 0.11 		 w_out 0.23
+            number of non zero weights 	 W_in 2167/17600 	 W_rec 5516/48400 	 w_out 500/2200
+
+            classification loss 0.63 	 regularization loss 0.012
+            learning rate 0.008 	 training op. time 2s
+
+Iteration 3600, epoch 4 validation accuracy 0.734
+
+            firing rate (Hz)  min 0 (28) 	 max 124 (1) 	 average 19 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.126 	 W_rec 0.11 		 w_out 0.23
+            number of non zero weights 	 W_in 2212/17600 	 W_rec 5456/48400 	 w_out 516/2200
+
+            classification loss 0.71 	 regularization loss 0.011
+            learning rate 0.008 	 training op. time 2.1s
+
+Iteration 4000, epoch 4 validation accuracy 0.738
+
+            firing rate (Hz)  min 0 (30) 	 max 126 (1) 	 average 21 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.125 	 W_rec 0.11 		 w_out 0.24
+            number of non zero weights 	 W_in 2205/17600 	 W_rec 5452/48400 	 w_out 527/2200
+
+            classification loss 0.76 	 regularization loss 0.013
+            learning rate 0.008 	 training op. time 2.1s
+
+Iteration 4400, epoch 5 validation accuracy 0.734
+
+            firing rate (Hz)  min 0 (29) 	 max 127 (1) 	 average 20 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.129 	 W_rec 0.11 		 w_out 0.24
+            number of non zero weights 	 W_in 2273/17600 	 W_rec 5379/48400 	 w_out 532/2200
+
+            classification loss 0.76 	 regularization loss 0.012
+            learning rate 0.008 	 training op. time 2s
+
+Iteration 4800, epoch 5 validation accuracy 0.75
+
+            firing rate (Hz)  min 0 (29) 	 max 123 (1) 	 average 22 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.13 	 W_rec 0.11 		 w_out 0.24
+            number of non zero weights 	 W_in 2286/17600 	 W_rec 5361/48400 	 w_out 537/2200
+
+            classification loss 0.68 	 regularization loss 0.013
+            learning rate 0.008 	 training op. time 2.1s
+
+Decaying learning rate: 0.008 -> 0.0064
+Iteration 5200, epoch 6 validation accuracy 0.801
+
+            firing rate (Hz)  min 0 (29) 	 max 126 (1) 	 average 20 +- std 20 (over neurons)
+            connectivity (total 0.12)	 W_in 0.128 	 W_rec 0.11 		 w_out 0.24
+            number of non zero weights 	 W_in 2248/17600 	 W_rec 5398/48400 	 w_out 537/2200
+
+            classification loss 0.55 	 regularization loss 0.011
+            learning rate 0.0064 	 training op. time 2.1s
+
+Iteration 5600, epoch 6 validation accuracy 0.801
+
+            firing rate (Hz)  min 0 (28) 	 max 126 (1) 	 average 19 +- std 20 (over neurons)
+            connectivity (total 0.12)	 W_in 0.127 	 W_rec 0.11 		 w_out 0.25
+            number of non zero weights 	 W_in 2243/17600 	 W_rec 5401/48400 	 w_out 540/2200
+
+            classification loss 0.64 	 regularization loss 0.011
+            learning rate 0.0064 	 training op. time 2s
+
+Iteration 6000, epoch 6 validation accuracy 0.797
+
+            firing rate (Hz)  min 0 (27) 	 max 122 (1) 	 average 21 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.13 	 W_rec 0.11 		 w_out 0.25
+            number of non zero weights 	 W_in 2282/17600 	 W_rec 5346/48400 	 w_out 556/2200
+
+            classification loss 0.66 	 regularization loss 0.013
+            learning rate 0.0064 	 training op. time 2.1s
+
+Iteration 6400, epoch 7 validation accuracy 0.789
+
+            firing rate (Hz)  min 0 (26) 	 max 123 (1) 	 average 20 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.132 	 W_rec 0.11 		 w_out 0.26
+            number of non zero weights 	 W_in 2315/17600 	 W_rec 5306/48400 	 w_out 563/2200
+
+            classification loss 0.58 	 regularization loss 0.012
+            learning rate 0.0064 	 training op. time 2.1s
+
+Iteration 6800, epoch 7 validation accuracy 0.773
+
+            firing rate (Hz)  min 0 (27) 	 max 124 (1) 	 average 20 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.13 	 W_rec 0.11 		 w_out 0.26
+            number of non zero weights 	 W_in 2281/17600 	 W_rec 5337/48400 	 w_out 566/2200
+
+            classification loss 0.63 	 regularization loss 0.012
+            learning rate 0.0064 	 training op. time 2s
+
+Iteration 7200, epoch 8 validation accuracy 0.82
+
+            firing rate (Hz)  min 0 (27) 	 max 127 (1) 	 average 20 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.126 	 W_rec 0.11 		 w_out 0.26
+            number of non zero weights 	 W_in 2226/17600 	 W_rec 5393/48400 	 w_out 564/2200
+
+            classification loss 0.54 	 regularization loss 0.012
+            learning rate 0.0064 	 training op. time 2.1s
+
+Decaying learning rate: 0.0064 -> 0.0051
+Iteration 7600, epoch 8 validation accuracy 0.781
+
+            firing rate (Hz)  min 0 (28) 	 max 124 (1) 	 average 21 +- std 21 (over neurons)
+            connectivity (total 0.12)	 W_in 0.131 	 W_rec 0.11 		 w_out 0.26
+            number of non zero weights 	 W_in 2299/17600 	 W_rec 5314/48400 	 w_out 571/2200
+
+            classification loss 0.64 	 regularization loss 0.012
+            learning rate 0.0051 	 training op. time 2.4s
+
+Iteration 8000, epoch 9 validation accuracy 0.836
+
+            firing rate (Hz)  min 0 (27) 	 max 123 (1) 	 average 21 +- std 20 (over neurons)
+            connectivity (total 0.12)	 W_in 0.131 	 W_rec 0.11 		 w_out 0.26
+            number of non zero weights 	 W_in 2314/17600 	 W_rec 5302/48400 	 w_out 568/2200
+
+            classification loss 0.45 	 regularization loss 0.011
+            learning rate 0.0051 	 training op. time 2.1s
