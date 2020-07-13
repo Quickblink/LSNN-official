@@ -98,7 +98,7 @@ FLAGS.rewiring_connectivity = -1
 FLAGS.neuron_sign = False
 FLAGS.reg = 0
 FLAGS.thr = 1
-FLAGS.n_delay = 1
+#FLAGS.n_delay = 1
 FLAGS.n_ref = 0
 
 
